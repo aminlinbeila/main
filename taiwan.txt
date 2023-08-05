@@ -22,6 +22,17 @@ rtmp://219.80.97.77/sat/tv091
 rtmp://119.81.124.89/sat/tv091
 http://162.19.247.76:22222/live/zhongshi/index.m3u8
 https://epg.pw/stream/5c00445bca9aaeefcb38ce5a1227e06ac3d420a57a804161ae6f95eaf4e825e9.m3u8
-https://epg.pw/stream/7a1e998b4da0e6ea99322444a044e9ce792613241c81a29eb61f6fbf13645c6a.ctv
 https://epg.pw/stream/c869c376ae69423ceabac16cb67456ba3976bc1bc8b517ac29f475479462100e.m3u8
 https://epg.pw/stream/346a2c128979e64cb392ae58a87ca091f9086a97c228d815ab51c6620500a0e4.m3u8
+#EXTINF:-1 group-title="無線台",華視
+rtmp://219.80.97.77/sat/tv111
+rtmp://119.81.124.89/sat/tv111
+http://162.19.247.76:22222/live/huashi/index.m3u8
+https://epg.pw/stream/eccf32739b25830eae943450b2e0cd8790e575a94f2edee661670cbceaa71f49.m3u8
+https://epg.pw/stream/06d745b63127556d70548c151d221a80931ce9baebd111fc4a978cffcc645a6e.m3u8
+https://epg.pw/stream/2d94c311335983306be411e2816b42a9539a0277ed0dc59e84f8787ad18d4c97.ctv
+https://epg.pw/stream/1c0e862092573aefa5e4264ced24e1e7b98d4418d9fdd7e0434cfbd7c359775f.m3u8
+https://fsv4.yj011.net/sat/tv111.flv
+http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
+http://50.7.238.114:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
+
