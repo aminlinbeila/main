@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="無線台",民視
+rtmp://119.81.124.89/sat/tv051
+https://epg.pw/stream/7401229ebba48dab78da3eb2e6912ed1aa1f295c056697946a2949901268ad3a.m3u8
