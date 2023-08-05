@@ -42,5 +42,11 @@ http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03e
 rtmp://119.81.124.89/sat/tv721
 rtmp://219.80.97.77/sat/tv721
 http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
-https://epg.pw/stream/b95d2f960d328c4b2c68f207e2dea898fdc56a89b261bf88c2d3916b1d37c6a8.ctv
 https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
+#EXTINF:-1 group-title="體育台",ELEVEN1台
+rtmp://219.80.97.77/sat/tv731
+rtmp://119.81.124.89/sat/tv731
+https://epg.pw/stream/a13586861621ce43af3f05b91a3a4311217b575c7cc2cd1904d3cd5377306402.ctv
+https://epg.pw/stream/70aae32f941ab8b702ee73c95adc058a1b87e065db280fbb667887f61ae1782c.m3u8
+http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+
