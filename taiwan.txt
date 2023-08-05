@@ -52,3 +52,6 @@ rtmp://119.81.124.89/sat/tv741
 #EXTINF:-1 group-title="體育台",MOMO綜合台
 rtmp://219.80.97.77/sat/tv761
 rtmp://119.81.124.89/sat/tv761
+#EXTINF:-1 group-title="綜合台",三立都會台
+https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
+https://epg.pw/stream/3193c4cbab27252a840957c616b6b0c84df918e87061638d36c0a244b818fd8c.m3u8
