@@ -104,3 +104,18 @@ http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=
 http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 http://162.19.247.76:22222/live/ztyl/index.m3u8
 http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
+#EXTINF:-1 group-title="新聞台",台視新聞台
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1 group-title="新聞台",東森新聞台
+http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
+#EXTINF:-1 group-title="新聞台",東森財經新聞台
+rtmp://119.81.124.89/sat/tv571
+rtmp://219.80.97.77/sat/tv571
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 group-title="新聞台",TVBS新聞台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
