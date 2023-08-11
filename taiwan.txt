@@ -38,6 +38,14 @@ http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&ts
 http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
 http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
 http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
+#EXTINF:-1 group-title="無線台",大愛
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+https://epg.pw/stream/01146360171717ca4afebb3823af678c34c4bf17729d38455fdd6daf03008ed2.m3u8
+#EXTINF:-1 group-title="無線台",大愛二台
+https://epg.pw/stream/1f3e158520af1be7f1dfdd5c56fe0393e54fe4bde8d8fbdfe04f74185117e9db.m3u8
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 group-title="體育台",緯來體育
 rtmp://119.81.124.89/sat/tv721
 rtmp://219.80.97.77/sat/tv721
@@ -104,6 +112,47 @@ http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=
 http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 http://162.19.247.76:22222/live/ztyl/index.m3u8
 http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
+#EXTINF:-1 group-title="戲劇台",東森戲劇台
+http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
+http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
+http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+http://162.19.247.76:22222/live/dsxj/index.m3u8
+https://epg.pw/stream/af9b73d89f773db240e32b751bedc8b58b0b8ad8a9f0de1f4f008e8475262318.m3u8
+https://epg.pw/stream/b7ad44978dbadf18d361ec718ab5d8f38d6c6e3b19449dfd5df12deaafc44c40.m3u8
+https://epg.pw/stream/85f834ef8f7811fc57a55b8d917e79296468aaf03b32dfba68f1b3bee92f01a5.m3u8
+https://epg.pw/stream/ac63ebd71190684bca8eef8ca0a415bb3ea877ceff12bb3734bf616a971aeedf.m3u8
+https://epg.pw/stream/e98ff1378668cd9767a649f58f8ed5921eb0e3a45e665c3707f0dc9885e5e899.ctv
+http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+#EXTINF:-1 group-title="戲劇台",八大戲劇台
+http://50.7.238.114:8278/badadrama/playlist.m3u8?ct=19225&tid=ME4E4734124647341246&tsum=c4e596572a79ad99675ee2137d1cc43d
+http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
+#EXTINF:-1 group-title="戲劇台",龍華戲劇台
+http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
+http://198.16.100.90:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
+http://198.16.100.90:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
+https://epg.pw/stream/2ab3a3329e8b5fb2694e8ef236ac66daa6be0229e1783c03cce080b8fdf07754.m3u8
+#EXTINF:-1 group-title="戲劇台",龍華偶像台
+http://50.7.238.114:8278/lunghuaidol_twn/playlist.m3u8?tid=MB3B9268047492680474&ct=19234&tsum=792a8d573313f22d3bd8670148df20cb
+http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
+#EXTINF:-1 group-title="戲劇台",愛爾達影劇台
+http://50.7.238.114:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+http://198.16.100.90:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+#EXTINF:-1 group-title="電影台",東森電影台
+http://107.151.203.111:2209/135/hk.php?id=dsdyt
+http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+http://162.19.247.76:22222/live/dsdyt/index.m3u8
+https://epg.pw/stream/4a62ed9593b78b102478dfb9ee5c49007c9082b303b3056a8c99ea50647847de.m3u8
+https://epg.pw/stream/382dca1621c0aecc0f0ef19a4ef53b453d932600fc491d9f56657e576996d995.m3u8
+#EXTINF:-1 group-title="電影台",東森洋片台
+http://162.19.247.76:22222/live/dsypt/index.m3u8
+http://103.112.191.9:880/LAOSAT1018.m3u8
+#EXTINF:-1 group-title="電影台",HBO
+http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
+#EXTINF:-1 group-title="電影台",AXN
+http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 #EXTINF:-1 group-title="新聞台",台視新聞台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -112,6 +161,7 @@ http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 group-title="新聞台",東森新聞台
+https://epg.pw/stream/ed5584e2a99e88b1171f18ae15a1617c697612d1f2797caef1960b52f32ef8ed.ctv
 http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 #EXTINF:-1 group-title="新聞台",東森財經新聞台
 rtmp://119.81.124.89/sat/tv571
@@ -119,3 +169,4 @@ rtmp://219.80.97.77/sat/tv571
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 group-title="新聞台",TVBS新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+rtmp://219.80.97.77/sat/tv551
