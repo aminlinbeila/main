@@ -90,6 +90,7 @@ http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=1
 http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 #EXTINF:-1 group-title="綜合台",緯來育樂台
+https://fsv4.yj011.net/sat/tv701.flv
 rtmp://219.80.97.77/sat/tv701
 rtmp://119.81.124.89/sat/tv701
 #EXTINF:-1 group-title="綜合台",緯來日本台
