@@ -37,6 +37,7 @@
 大愛二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 體育台,#genre#
+緯來體育,https://fsv4.yj011.net/sat/tv721.flv
 緯來體育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
 緯來體育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 緯來體育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
@@ -54,7 +55,6 @@ ELEVEN2台,rtmp://119.81.124.89/sat/tv741
 MOMO綜合台,https://fsv4.yj011.net/sat/tv761.flv
 MOMO綜合台,rtmp://219.80.97.77/sat/tv761
 MOMO綜合台,rtmp://119.81.124.89/sat/tv761
-愛爾達體育一台,
 愛爾達體育一台,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 愛爾達體育一台,http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 愛爾達體育一台,https://epg.pw/stream/083d9729e9b2066ceab3b1971b5b7421fa0e760665a1eb99ee669924bd129c5a.m3u8
@@ -77,6 +77,7 @@ TVBS歡樂台,rtmp://219.80.97.77/sat/tv421
 八大第一台,http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 八大第一台,http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 八大第一台,http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+緯來育樂台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8584/.m3u8
 緯來育樂台,https://fsv4.yj011.net/sat/tv701.flv
 緯來育樂台,rtmp://219.80.97.77/sat/tv701
 緯來育樂台,rtmp://119.81.124.89/sat/tv701
