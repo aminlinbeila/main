@@ -36,6 +36,7 @@
 大愛二台,https://epg.pw/stream/1f3e158520af1be7f1dfdd5c56fe0393e54fe4bde8d8fbdfe04f74185117e9db.m3u8
 大愛二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+
 體育台,#genre#
 緯來體育,https://fsv4.yj011.net/sat/tv721.flv
 緯來體育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
@@ -47,6 +48,7 @@
 緯來體育,rtmp://119.81.124.89/sat/tv721
 緯來體育,rtmp://219.80.97.77/sat/tv721
 ELEVEN1台,rtmp://9sv2.mine.nu/sat/tv731
+ELEVEN1台,https://fsv4.yj011.net/sat/tv731.flv
 ELEVEN1台,rtmp://219.80.97.77/sat/tv731
 ELEVEN1台,rtmp://119.81.124.89/sat/tv731
 ELEVEN2台,rtmp://9sv2.mine.nu/sat/tv741
@@ -63,6 +65,7 @@ MOMO綜合台,rtmp://119.81.124.89/sat/tv761
 愛爾達體育二台,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
 愛爾達體育二台,https://epg.pw/stream/ccadbbe61956bcdf2cbb588ceaac454d8616a9c339f35271c681b1b8d8abe63d.m3u8
 愛爾達體育三台,https://epg.pw/stream/cd878473261acf9caf22b42bdde72cbb24499ee849e5ec01804354c2cbb76773.m3u8
+
 綜合台,#genre#
 三立都會台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 三立都會台,https://epg.pw/stream/3193c4cbab27252a840957c616b6b0c84df918e87061638d36c0a244b818fd8c.m3u8
@@ -81,6 +84,7 @@ TVBS歡樂台,rtmp://219.80.97.77/sat/tv421
 緯來育樂台,https://fsv4.yj011.net/sat/tv701.flv
 緯來育樂台,rtmp://219.80.97.77/sat/tv701
 緯來育樂台,rtmp://119.81.124.89/sat/tv701
+緯來綜合台,http://211.23.114.106:8505/http/60.251.39.91:8081/hls/68/810/ch32.m3u8
 緯來日本台,rtmp://119.81.124.89/sat/tv771
 緯來日本台,http://198.16.100.90:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
 緯來日本台,http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
@@ -96,6 +100,7 @@ TVBS歡樂台,rtmp://219.80.97.77/sat/tv421
 中天娛樂台,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 中天娛樂台,http://162.19.247.76:22222/live/ztyl/index.m3u8
 中天娛樂台,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
+
 戲劇台,#genre#
 東森戲劇台,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
 東森戲劇台,http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
@@ -130,6 +135,7 @@ HBO,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&c
 HBO,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 AXN,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+
 新聞台,#genre#
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
