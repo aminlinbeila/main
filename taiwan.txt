@@ -6,6 +6,7 @@
 台視,http://162.19.247.76:22222/live/taishi/index.m3u8
 台視,https://epg.pw/stream/d683ec1b74bb3cac71e6c52bd56e9e0bc2ce256500de142e9ad3f8c63c680cea.m3u8
 台視,https://epg.pw/stream/72a3282a07ff04215b8a652c00535afe30687970814ef95bbc49bb3d61068f89.m3u8
+中視,http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
 中視,http://162.19.247.76:22222/live/zhongshi/index.m3u8
 中視,https://epg.pw/stream/5c00445bca9aaeefcb38ce5a1227e06ac3d420a57a804161ae6f95eaf4e825e9.m3u8
 中視,https://epg.pw/stream/c869c376ae69423ceabac16cb67456ba3976bc1bc8b517ac29f475479462100e.m3u8
