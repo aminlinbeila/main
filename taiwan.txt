@@ -111,15 +111,15 @@ STAR MOVIE,http://220.135.124.158:8088/live/69_h265.ts
 CINEMAX,http://220.135.124.158:8088/live/71_h265.ts
 
 新聞台,#genre#
+台視新聞台,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞台,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-台視新聞台,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台視新聞台,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 三立新聞台,http://220.135.124.158:8088/live/54_h265.ts
 東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-東森新聞台,http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
+東森新聞台,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 東森新聞台,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 TVBS新聞台,http://220.135.124.158:8088/live/55_h265.ts
 TVBS新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
