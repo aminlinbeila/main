@@ -24,13 +24,13 @@
 緯來體育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
 緯來體育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
 緯來體育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
-ELEVEN1台,http://220.135.124.158:8088/live/20_h265.ts
-ELEVEN1台,rtmp://9sv2.mine.nu/sat/tv731
-ELEVEN1台,https://fsv4.yj011.net/sat/tv731.flv
+ELEVEN1台,http://198.16.100.90:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+ELEVEN1台, 
+ELEVEN1台, 
 ELEVEN2台,http://220.135.124.158:8088/live/52_h265.ts
 ELEVEN2台,rtmp://9sv2.mine.nu/sat/tv741
 ELEVEN2台,https://fsv4.yj011.net/sat/tv741.flv
-MOMO綜合台,https://fsv4.yj011.net/sat/tv761.flv
+MOMO綜合台, 
 MOMO綜合台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8553/.m3u8
 愛爾達體育一台,http://vp.ubvip1688.com:8080/vod/510FC806/main.m3u8
 愛爾達體育二台,http://vp.ubvip1688.com:8080/vod/C8DAB756/main.m3u8
