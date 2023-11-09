@@ -58,8 +58,8 @@ TVBS,mitv://generationnexxxt.com:19806/ad7e48825c5e44c798ec1bdc60728ed6
 緯來綜合台,mitv://generationnexxxt.com:19806/1f7106c48a6a4961a7061a9592f08865
 緯來綜合台,http://211.23.114.106:8505/http/60.251.39.91:8081/hls/68/810/ch32.m3u8
 緯來育樂台,mitv://generationnexxxt.com:19806/cdeca14f329d4104a23ef9d7b58f0093
-緯來育樂台,http://211.23.114.106:8527/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
 緯來育樂台,rtmp://9sv1.mine.nu:1935/sat/tv701
+緯來育樂台,http://211.23.114.106:8527/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
 東森綜合台,mitv://generationnexxxt.com:19806/490712f7814148fe9e947cca0ffc8124
 東森綜合台,http://220.134.196.147:9553/index.m3u8
 東森綜合台,http://50.7.238.114:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
