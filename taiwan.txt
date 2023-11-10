@@ -19,6 +19,7 @@ MOMO綜合台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8553/.m3u8
 愛爾達體育二台,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 愛爾達體育三台,mitv://generationnexxxt.com:19806/e207d70d1c274e33af892a9b2fe7545f
 愛爾達體育四台,mitv://generationnexxxt.com:19806/526cc140f85b48ee881103053bb77d5e
+三立都會台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 三立都會台,https://epg.pw/stream/3193c4cbab27252a840957c616b6b0c84df918e87061638d36c0a244b818fd8c.m3u8
 三立都會台,mitv://generationnexxxt.com:19806/e2be8741533747d797590bbf46d93ad7
 東森新聞台,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
