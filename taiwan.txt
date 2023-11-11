@@ -8,7 +8,7 @@
 緯來育樂台,http://211.23.114.106:8527/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
 ELEVEN1台,mitv://generationnexxxt.com:19806/f55104c8af5848e58a87802ebdbc3ce3
 ELEVEN1台,http://198.16.100.90:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
-ELEVEN1台, 
+ELEVEN1台,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120 
 ELEVEN2台,mitv://generationnexxxt.com:19806/226ab470fb3d4b54a5969c87e14fe3f4
 ELEVEN2台,
 MOMO綜合台,rtmp://9sv1.mine.nu:1935/sat/tv761 
