@@ -251,6 +251,11 @@ ELEVEN體育2台,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live10
 
 MOMO綜合台,rtmp://9sv1.mine.nu:1935/sat/tv761
 
+愛爾達體育1台,http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
+愛爾達體育1台,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
+
+愛爾達體育2台,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+
 動畫台,#genre#
 Animax,http://38.207.160.104:11012/live.php?date=231108&id=animax-cartoon
 Animax,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1060
