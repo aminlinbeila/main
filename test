@@ -229,13 +229,13 @@ TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 非凡新聞台,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1013
 
 體育台,#genre#
-緯來體育,rtmp://9sv1.mine.nu:1935/sat/tv721
+緯來體育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
+緯來體育,
 緯來體育,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1011
 緯來體育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
 緯來體育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
 緯來體育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
 緯來體育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
-緯來體育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
 
 ELEVEN體育1台,rtmp://9sv1.mine.nu:1935/sat/tv731
 ELEVEN體育1台,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1069
