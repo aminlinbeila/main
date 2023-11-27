@@ -100,8 +100,8 @@ TvN,http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=1924
 中視,http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
 
 新聞台,#genre#
-東森財經新聞台,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
 東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+東森財經新聞台,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
 東森財經新聞台,http://sc2022.stream-link.org/tv2306.php?id=t02
 東森財經新聞台,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1017
 東森財經新聞台,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
@@ -127,16 +127,16 @@ TvN,http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=1924
 三立新聞台,http://125.227.210.55:35238/VideoInput/play.ts
 三立新聞台,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1079
 三立新聞台,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1016
-台視新聞台,http://www.terrykang.xyz:35455/youtube/xL0ch83RAK8
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+台視新聞台,http://www.terrykang.xyz:35455/youtube/xL0ch83RAK8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台視新聞台,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台視新聞台,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+中視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中視新聞台,http://www.terrykang.xyz:35455/youtube/TCnaIE_SAtM
 中視新聞台,http://tv.redrainl.site:9500/live.m3u8?c=02
 中視新聞台,https://ytm2.yuanhsing.cf/twctvnews.m3u8
-中視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中視新聞台,https://epg.pw/stream/82f32d75a3fc48001b26514205937c92561b5540c3d1f21b644c86c17dd4ea63.m3u8
 中視新聞台,https://epg.pw/stream/f8ad1eb12189e18cad93d48f8a20fba513d8a54d48c100000486ad1062ccb290.m3u8
 中視新聞台,http://38.207.160.104:11012/live.php?date=231108&id=ctv-news
