@@ -7,7 +7,7 @@
 愛爾達體育3台,tvbus://48dzHwkYta7JJNEFTQejMSuWXi88Taf2q3b6SUPcZmXeZjqUnv
 愛爾達體育4台,tvbus://4ssNUJwejFvjkosWzvx48AtyGNmQ9AS8oJnvaeu9fxcNE6v8Mv
 緯來體育,rtmp://9sv2.mine.nu/sat/tv721
-緯來體育,tvbus://3ScW5ud52kLRbUrHFq3aoYLdcW7gmo6iNgn5CGNUaGWsX8H6Aj
+緯來體育,https://cloud.yumixiu768.com/tmp/123.m3u8
 緯來體育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
 緯來體育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
 緯來體育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
