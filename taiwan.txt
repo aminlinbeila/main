@@ -1,5 +1,5 @@
 體育台,#genre#
-05愛爾達體育1台,rtmp://9sv2.mine.nu:1935/sat/md051
+愛爾達體育1台,rtmp://9sv2.mine.nu:1935/sat/md051
 愛爾達體育1台,tvbus://4QDBFfLbnjJdoxbc7ZqW8Ssc2jwoLbQPLDS55tqXQnCQEERHbw
 愛爾達體育2台,
 愛爾達體育2台,
