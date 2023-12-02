@@ -1,10 +1,10 @@
 體育台,#genre#
-愛爾達體育1台,http://vp.ubvip1688.com:8080/vod/510FC806/main.m3u8
+05愛爾達體育1台,rtmp://9sv2.mine.nu:1935/sat/md051
 愛爾達體育1台,tvbus://4QDBFfLbnjJdoxbc7ZqW8Ssc2jwoLbQPLDS55tqXQnCQEERHbw
-愛爾達體育2台,http://vp.ubvip1688.com:8080/vod/C8DAB756/main.m3u8
-愛爾達體育2台,tvbus://4miUK2SiFdeyUG3detwN8X7qhzL4wvJeNd5bvkg9CWLeYZjP2d
-愛爾達體育3台,rtmp://9sv2.mine.nu:1935/sat/md051
-愛爾達體育3台,tvbus://48dzHwkYta7JJNEFTQejMSuWXi88Taf2q3b6SUPcZmXeZjqUnv
+愛爾達體育2台,
+愛爾達體育2台,
+愛爾達體育3台,
+愛爾達體育3台,
 愛爾達體育4台,rtmp://9sv2.mine.nu/sat/md041
 緯來體育,rtmp://9sv2.mine.nu/sat/tv721
 緯來體育,https://cloud.yumixiu768.com/tmp/123.m3u8
@@ -19,6 +19,7 @@ ELEVEN體育1台,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live106
 ELEVEN體育1台,https://epg.pw/stream/70aae32f941ab8b702ee73c95adc058a1b87e065db280fbb667887f61ae1782c.m3u8
 ELEVEN體育1台,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 ELEVEN體育2台,rtmp://9sv2.mine.nu/sat/tv741
+ELEVEN體育2台,rtmp://9sv2.mine.nu/sat/md041
 ELEVEN體育2台,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1072
 ELEVEN體育2台,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1072
 MOMO綜合台,rtmp://9sv2.mine.nu/sat/tv761
