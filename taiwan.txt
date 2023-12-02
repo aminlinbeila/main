@@ -1,10 +1,10 @@
 體育台,#genre#
 愛爾達體育1台,rtmp://9sv2.mine.nu:1935/sat/md051
 愛爾達體育1台,tvbus://4QDBFfLbnjJdoxbc7ZqW8Ssc2jwoLbQPLDS55tqXQnCQEERHbw
-愛爾達體育2台,
-愛爾達體育2台,
-愛爾達體育3台,
-愛爾達體育3台,
+
+
+
+
 愛爾達體育4台,rtmp://9sv2.mine.nu/sat/md041
 緯來體育,rtmp://9sv2.mine.nu/sat/tv721
 緯來體育,https://cloud.yumixiu768.com/tmp/123.m3u8
