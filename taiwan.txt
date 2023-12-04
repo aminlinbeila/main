@@ -55,8 +55,8 @@ MOMO綜合台,rtmp://9sv2.mine.nu/sat/tv761
 緯來日本台,rtmp://9sv2.mine.nu/sat/tv771
 緯來日本台,http://38.207.160.104:11012/live.php?date=231108&id=videoland-japan
 緯來日本台,http://49.235.110.121:9090/898/peda/twjd.php?id=36
-緯來育樂台,http://211.23.114.106:8527/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
 緯來育樂台,rtmp://9sv2.mine.nu/sat/tv701
+緯來育樂台,http://211.23.114.106:8527/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
 緯來育樂台,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1045
 緯來綜合台,http://211.23.114.106:8505/http/60.251.39.91:8081/hls/68/810/ch32.m3u8
 緯來綜合台,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1044
