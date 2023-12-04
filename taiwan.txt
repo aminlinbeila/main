@@ -30,7 +30,7 @@ MOMO綜合台,rtmp://9sv2.mine.nu/sat/tv761
 八大第一台,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1043
 八大第一台,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1043
 八大第一台,http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
-八大綜合台,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+八大綜合台,
 八大綜合台,https://epg.pw/stream/b786b311590dc78072af13b07e83f839d4097487f931e287c375c83faaa369c5.ctv
 八大綜合台,http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
 八大綜合台,http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
@@ -182,6 +182,7 @@ Animax,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1060
 東森電影台,http://gwtv.cnv8.tv:8097/ettvmovie/playlist.m3u8
 東森洋片台,http://gwtv.cnv8.tv:8097/ettvwestern/playlist.m3u8
 衛視電影台,http://211.23.114.106:8525/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
+衛視電影台,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
 衛視電影台,http://125.227.210.55:28993/VideoInput/play.ts
 HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 
