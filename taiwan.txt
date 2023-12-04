@@ -162,6 +162,7 @@ TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8?$1920x1080
 TVBS新聞台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+CNN,http://125.227.210.55:28993/VideoInput/play.ts
 CNN,http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 
 戲劇台,#genre#
@@ -183,7 +184,7 @@ Animax,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1060
 東森洋片台,http://gwtv.cnv8.tv:8097/ettvwestern/playlist.m3u8
 衛視電影台,http://211.23.114.106:8525/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
 衛視電影台,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
-衛視電影台,http://125.227.210.55:28993/VideoInput/play.ts
+衛視電影台,
 HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 
 購物台,#genre#
