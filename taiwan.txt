@@ -1,4 +1,4 @@
-playerType = 2
+
 體育台,#genre#
 愛爾達體育1台,http://gwtv.cnv8.tv:8097/eltasport1_twn/playlist.m3u8
 愛爾達體育1台,tvbus://4QDBFfLbnjJdoxbc7ZqW8Ssc2jwoLbQPLDS55tqXQnCQEERHbw
