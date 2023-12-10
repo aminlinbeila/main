@@ -11,27 +11,6 @@
           "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "JUNDIE",
-          "type":"0",
-          "pass": true,
-          "url":"http://home.jundie.top:81/ray/tvlive.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "fanmingming",
-          "type":"0",
-          "pass": true,
-          "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "本地文件",
-          "type":"0",
-          "pass": true,
-          "url":"./list.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ]
 }
