@@ -12,7 +12,7 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
           "playerType": 2
-	        "timeout": 20
+	  "timeout": 20
         }
     ]
 }
