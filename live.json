@@ -1,0 +1,34 @@
+//=============直播更新日期 2023/12/11=============
+//本單倉庫在線鏈接：
+//https://raw.githubusercontent.com/mengzehe/tvbox/main/ck.json
+
+"lives": [
+        {
+          "name": "TAIWAN",
+          "type":"0",
+          "pass": false,
+          "url": "https://raw.githubusercontent.com/aminlinbeila/main/main/taiwan.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+		  "playerType": 2
+		  "timeout": 20
+        },{
+          "name": "MITV",
+          "type":"0",
+          "pass": false,
+          "url": "https://raw.githubusercontent.com/aminlinbeila/main/main/mitv",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+		  "playerType": 2
+		  "timeout": 20
+        },{
+          "name": "TEST",
+          "type":"0",
+          "pass": false,
+          "url": "https://raw.githubusercontent.com/aminlinbeila/main/main/test",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+		  "playerType": 2
+		  "timeout": 20
+        }
+    ]
