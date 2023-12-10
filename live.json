@@ -8,7 +8,7 @@
           "name": "Yoursmile7",
           "type":"0",
           "pass": true,
-          "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+          "url": "https://raw.githubusercontent.com/aminlinbeila/main/main/taiwan.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
