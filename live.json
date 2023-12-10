@@ -4,13 +4,13 @@
 
 {
   "lives": [
-    {
-      "name": "TAIWAN",
-      "url": "https://raw.githubusercontent.com/aminlinbeila/main/main/taiwan.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-      "playerType": 2
-      "timeout": 20
-    }
+        {
+          "name": "Yoursmile7",
+          "type":"0",
+          "pass": true,
+          "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
     ]
 }
