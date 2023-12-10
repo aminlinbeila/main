@@ -2,6 +2,7 @@
 //本單倉庫在線鏈接：
 //https://raw.githubusercontent.com/aminlinbeila/main/main/live.json
 
+        {
 "lives": [
         {
           "name": "TAIWAN",
@@ -32,3 +33,4 @@
 		  "timeout": 20
         }
     ]
+}
