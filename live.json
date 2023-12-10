@@ -8,7 +8,6 @@
           "name": "taiwan",
           "type":"0",
           "pass": true,
-	  "playerType": 2
 	  "url": "https://raw.githubusercontent.com/aminlinbeila/main/main/taiwan.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"         
