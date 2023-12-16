@@ -87,8 +87,8 @@ TvN,http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=1924
 公視,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
 公視,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
 公視,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
-華視,http://211.72.65.236:8539/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
 華視,http://50.7.238.114:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
+華視,http://211.72.65.236:8539/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
 華視,
 華視,https://epg.pw/stream/1c0e862092573aefa5e4264ced24e1e7b98d4418d9fdd7e0434cfbd7c359775f.m3u8
 華視,https://epg.pw/stream/eccf32739b25830eae943450b2e0cd8790e575a94f2edee661670cbceaa71f49.m3u8
@@ -119,7 +119,7 @@ TvN,http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=1924
 東森財經新聞台,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1017
 東森財經新聞台,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
 東森財經新聞台,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
-東森新聞台,http://211.72.65.236:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+東森新聞台,https://yt-stream.livednow.com/stream/S5WOGu2HSes/master.m3u8
 東森新聞台,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 東森新聞台,tvbus://3axQp2q6k8BWbmfzH7q9FEpaZTennC7eKfouvat7wrFxfu5kES
 東森新聞台,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1014
