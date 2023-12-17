@@ -1,4 +1,4 @@
-//=============直播更新日期 2023/12/16=============
+//=============直播更新日期 2023/12/17=============
 //本單倉庫在線鏈接：
 //https://raw.githubusercontent.com/aminlinbeila/main/main/live.json
 
@@ -18,6 +18,15 @@
           "type":"0",
           "pass": false,
 	  "url": "https://raw.githubusercontent.com/aminlinbeila/main/main/mitv",
+          "playerType":2,
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"         
+	   },
+	  {
+          "name": "TEST",
+          "type":"0",
+          "pass": false,
+	  "url": "https://raw.githubusercontent.com/aminlinbeila/main/main/test",
           "playerType":2,
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"         
