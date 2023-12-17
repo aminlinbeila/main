@@ -104,8 +104,7 @@ TvN,http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=1924
 民視,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1050
 民視,https://epg.pw/stream/720e88c5916645734a5ed560a15e475c11c32dd6659b37aceb035720ee6f40ea.ctv
 台視,rtmp://twcdn.top/sat/tv071
-台視,http://211.72.65.236:8539/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
-台視,
+台視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
 台視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MD2D8203795682037956&ct=19249&tsum=2006edaa53ca80f074fb680d4b7372c3
 台視,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 中視,rtmp://twcdn.top/sat/tv091
