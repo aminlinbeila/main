@@ -31,5 +31,6 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"         
 	   }
-    ]
+  ],
+	"ads":["mozai.4gtv.tv"]
 }
