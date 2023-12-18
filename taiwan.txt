@@ -1,10 +1,10 @@
 體育台,#genre#
-愛爾達體育1台,https://yeslivetv.com/channels/elta-tv-1/
+愛爾達體育1台,video://https://yeslivetv.com/channels/elta-tv-1/
 愛爾達體育1台,video://http://everydaytv.top/play-3-51-0.html
 愛爾達體育1台,tvbus://4QDBFfLbnjJdoxbc7ZqW8Ssc2jwoLbQPLDS55tqXQnCQEERHbw
 愛爾達體育2台,http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
 愛爾達體育2台,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
-愛爾達體育3台,http://gwtv.cnv8.tv:8097/eltasport3_twn/playlist.m3u8
+愛爾達體育3台,
 愛爾達體育4台,
 緯來體育,
 緯來體育,https://cloud.yumixiu768.com/tmp/123.m3u8
