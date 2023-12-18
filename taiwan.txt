@@ -1,10 +1,11 @@
 體育台,#genre#
-愛爾達體育1台,video://https://yeslivetv.com/channels/elta-tv-1/
+愛爾達體育1台,video://https://www.histar.tv/live/elta-sport1
 愛爾達體育1台,video://http://everydaytv.top/play-3-51-0.html
 愛爾達體育1台,tvbus://4QDBFfLbnjJdoxbc7ZqW8Ssc2jwoLbQPLDS55tqXQnCQEERHbw
 愛爾達體育2台,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
 愛爾達體育2台,http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
-愛爾達體育3台,
+愛爾達體育2台,video://https://www.histar.tv/live/elta-sport2
+愛爾達體育3台,video://https://www.histar.tv/live/elta-sport3
 愛爾達體育4台,
 緯來體育,https://cloud.yumixiu768.com/tmp/123.m3u8
 緯來體育,https://fake-stream.livednow.com/redirect/videolandsports?token=fe44a6f50b373603e7ade66f751d2a37&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
@@ -83,14 +84,14 @@ TvN,http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=1924
 大愛1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大愛2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-公視,
+公視,video://http://everydaytv.top/play-3-70-0.html
 公視,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
 公視,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
 公視,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
 公視,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
 華視,http://50.7.238.114:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
 華視,http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
-華視,
+華視,video://http://everydaytv.top/play-3-86-0.html
 華視,https://epg.pw/stream/1c0e862092573aefa5e4264ced24e1e7b98d4418d9fdd7e0434cfbd7c359775f.m3u8
 華視,https://epg.pw/stream/eccf32739b25830eae943450b2e0cd8790e575a94f2edee661670cbceaa71f49.m3u8
 華視,http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
@@ -106,9 +107,11 @@ TvN,http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=1924
 民視,https://epg.pw/stream/720e88c5916645734a5ed560a15e475c11c32dd6659b37aceb035720ee6f40ea.ctv
 台視,rtmp://twcdn.top/sat/tv071
 台視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
+台視,video://http://everydaytv.top/play-3-158-0.html
 台視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MD2D8203795682037956&ct=19249&tsum=2006edaa53ca80f074fb680d4b7372c3
 台視,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 中視,rtmp://twcdn.top/sat/tv091
+中視,video://http://everydaytv.top/play-3-190-0.html
 中視,http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
 中視,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
 
@@ -137,7 +140,7 @@ TvN,http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=1924
 民視新聞台,http://50.7.238.114:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
 年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞台,http://211.72.65.236:8539/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞台,
+年代新聞,video://http://everydaytv.top/play-3-139-0.html
 年代新聞台,
 三立新聞台,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞台,https://yt-stream.livednow.com/stream/oZdzzvxTfUY/master.m3u8
