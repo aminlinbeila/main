@@ -123,11 +123,11 @@ TvN,http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=1924
 東森財經新聞台,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
 東森財經新聞台,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
 東森新聞台,https://yt-stream.livednow.com/stream/S5WOGu2HSes/master.m3u8
+東森新聞台,video://https://today.line.me/tw/v2/article/grrvVZ
+東森新聞台,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞台,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 東森新聞台,tvbus://3axQp2q6k8BWbmfzH7q9FEpaZTennC7eKfouvat7wrFxfu5kES
-東森新聞台,
 東森新聞台,http://www.terrykang.xyz:35455/youtube/S5WOGu2HSes
-東森新聞台,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞台,https://epg.pw/stream/d6cad1cb0bdc2192885f5fb7689d8234c282c7f07401c1093a000ab83142bd95.m3u8
 非凡新聞台,http://125.227.210.55:28993/VideoInput/play.ts
 非凡新聞台,http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
