@@ -64,7 +64,7 @@ MOMO綜合台,rtmp://twcdn.top/sat/tv761
 中天娛樂台,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 中天娛樂台,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
-TVBS,
+TVBS,https://www.histar.tv/live/tvbs-hd
 TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 TVBS歡樂台,
 TVBS歡樂台,http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
@@ -148,12 +148,13 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 中視新聞台,http://www.terrykang.xyz:35455/youtube/TCnaIE_SAtM
 中視新聞台,http://tv.redrainl.site:9500/live.m3u8?c=02
 中視新聞台,https://ytm2.yuanhsing.cf/twctvnews.m3u8
-中视新闻台,https://epg.pw/stream/82f32d75a3fc48001b26514205937c92561b5540c3d1f21b644c86c17dd4ea63.m3u8中視新聞台,https://epg.pw/stream/82f32d75a3fc48001b26514205937c92561b5540c3d1f21b644c86c17dd4ea63.m3u8
+中視新聞台,https://epg.pw/stream/82f32d75a3fc48001b26514205937c92561b5540c3d1f21b644c86c17dd4ea63.m3u8
 中視新聞台,https://epg.pw/stream/f8ad1eb12189e18cad93d48f8a20fba513d8a54d48c100000486ad1062ccb290.m3u8
 中視新聞台,http://38.207.160.104:11012/live.php?date=231108&id=ctv-news
 中視新聞台,http://198.16.100.90:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 中視新聞台,http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 中視新聞台,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
+TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 TVBS新聞台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
@@ -182,7 +183,7 @@ Animax,video://http://everydaytv.top/play-3-2-0.html
 電影台,#genre#
 東森電影台,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 東森電影台,video://http://everydaytv.top/play-3-40-0.html
-龍祥時代,http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+龍祥時代,video://http://everydaytv.top/play-3-119-0.html
 東森洋片台,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 
