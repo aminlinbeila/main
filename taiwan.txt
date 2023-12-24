@@ -70,6 +70,7 @@ TVBS歡樂台,
 TVBS歡樂台,http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
 TvN,http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&tsum=48ef5f1d47a64fc90e5f5ad5b182fb5d
 TvN,http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=19249&tsum=b7f602e68174a03e917c7b354788bce9
+愛爾達綜合台,video://http://everydaytv.top/play-3-56-0.html
 TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 
 無線台,#genre#
@@ -112,6 +113,7 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 東森財經新聞台,
 東森財經新聞台,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
 東森財經新聞台,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
+
 東森新聞台,video://https://today.line.me/tw/v2/article/grrvVZ
 東森新聞台,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞台,https://yt-stream.livednow.com/stream/S5WOGu2HSes/master.m3u8
@@ -119,6 +121,7 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 東森新聞台,tvbus://3axQp2q6k8BWbmfzH7q9FEpaZTennC7eKfouvat7wrFxfu5kES
 東森新聞台,http://www.terrykang.xyz:35455/youtube/S5WOGu2HSes
 東森新聞台,https://epg.pw/stream/d6cad1cb0bdc2192885f5fb7689d8234c282c7f07401c1093a000ab83142bd95.m3u8
+中天新聞台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 非凡新聞台,video://http://everydaytv.top/play-3-62-0.html
 非凡新聞台,http://125.227.210.55:28993/VideoInput/play.ts
 非凡新聞台,
@@ -169,11 +172,17 @@ CNN,http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=
 東森戲劇台,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
 東森戲劇台,http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
 東森戲劇台,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+八大戲劇台,video://http://everydaytv.top/play-3-11-0.html
 八大戲劇台,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
 八大戲劇台,http://50.7.238.114:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
 八大戲劇台,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
 緯來戲劇台,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+緯來戲劇台,video://http://everydaytv.top/play-3-175-0.html
 愛爾達影劇台,video://http://everydaytv.top/play-3-55-0.html
+龍華戲劇台,video://http://everydaytv.top/play-3-115-0.html
+龍華日韓台,video://https://www.histar.tv/live/ltv-rihan
+龍華偶像台,http://50.7.238.114:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
+龍華偶像台,video://http://everydaytv.top/play-3-113-0.html
 
 幼兒,動畫台,#genre#
 靖天卡通台,http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
@@ -181,10 +190,17 @@ Animax,video://http://everydaytv.top/play-3-2-0.html
 東森幼幼台,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
 
 電影台,#genre#
+緯來電影台,video://http://everydaytv.top/play-3-171-0.html
+緯來電影台,video://https://www.histar.tv/live/videoland-movie
 東森電影台,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 東森電影台,video://http://everydaytv.top/play-3-40-0.html
 龍祥時代,video://http://everydaytv.top/play-3-119-0.html
 東森洋片台,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+東森洋片台,video://http://everydaytv.top/play-3-45-0.html
+龍華電影台,video://http://everydaytv.top/play-3-108-0.html
+龍華電影台,video://https://www.histar.tv/live/ltv-movies
+美亞電影台,video://https://www.histar.tv/live/meiah-movies
+靖天電影台,video://https://www.histar.tv/live/jtdy
 HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 
 購物台,#genre#
