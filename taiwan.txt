@@ -96,13 +96,13 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 民視,https://epg.pw/stream/874a06687ba0ef80e63712b5f2bbfaeade672def0cdee8950ad77b6067cf9a54.ctv
 民視,http://220.134.196.147:9574/ch49.m3u8
 民視,
-台視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
 台視,video://http://everydaytv.top/play-3-158-0.html
+台視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
 台視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MD2D8203795682037956&ct=19249&tsum=2006edaa53ca80f074fb680d4b7372c3
 台視,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台視,rtmp://twcdn.top/sat/tv071
-中視,rtmp://twcdn.top/sat/tv091
 中視,video://http://everydaytv.top/play-3-190-0.html
+中視,rtmp://twcdn.top/sat/tv091
 中視,http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
 中視,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
 
@@ -110,10 +110,9 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經新聞台,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
 東森財經新聞台,http://sc2022.stream-link.org/tv2306.php?id=t02
-東森財經新聞台,
 東森財經新聞台,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
 東森財經新聞台,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
-
+東森財經新聞台,
 東森新聞台,video://https://today.line.me/tw/v2/article/grrvVZ
 東森新聞台,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞台,https://yt-stream.livednow.com/stream/S5WOGu2HSes/master.m3u8
