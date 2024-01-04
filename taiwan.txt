@@ -18,7 +18,7 @@
 ELEVEN體育1台,video://https://www.histar.tv/live/eleven-sport1
 ELEVEN體育1台,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 ELEVEN體育1台,http://211.72.65.236:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
-ELEVEN體育1台,video://https://yeslivetv.com/channels/eleven-sports-1/
+ELEVEN體育1台,
 ELEVEN體育2台,rtmp://twcdn.top/sat/tv741
 ELEVEN體育2台,http://211.72.65.236:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 ELEVEN體育2台,video://https://www.histar.tv/live/eleven-sport2
@@ -59,7 +59,7 @@ MOMO綜合台,rtmp://twcdn.top/sat/tv761
 緯來育樂台,rtmp://twcdn.top/sat/tv701
 緯來育樂台,
 緯來育樂台,http://211.23.114.106:8527/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
-緯來綜合台,http://211.23.114.106:8505/http/60.251.39.91:8081/hls/68/810/ch32.m3u8
+緯來綜合台,video://http://everydaytv.top/play-3-179-0.html
 緯來綜合台,
 中天娛樂台,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 中天娛樂台,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
@@ -93,16 +93,18 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 華視,http://50.7.238.114:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
 華視,
 民視,video://http://everydaytv.top/play-3-126-0.html
+民視,http://220.134.196.147:9574/ch49.m3u8
 民視,http://211.72.65.236:8539/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
 民視,https://epg.pw/stream/874a06687ba0ef80e63712b5f2bbfaeade672def0cdee8950ad77b6067cf9a54.ctv
-民視,http://220.134.196.147:9574/ch49.m3u8
 民視,
-台視,video://http://everydaytv.top/play-3-158-0.html
 台視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
+台視,video://http://everydaytv.top/play-3-158-0.html
+台視,video://https://www.histar.tv/live/ttv
 台視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MD2D8203795682037956&ct=19249&tsum=2006edaa53ca80f074fb680d4b7372c3
 台視,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台視,rtmp://twcdn.top/sat/tv071
 中視,video://http://everydaytv.top/play-3-190-0.html
+中視,video://https://www.histar.tv/live/ctv
 中視,rtmp://twcdn.top/sat/tv091
 中視,http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
 中視,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
@@ -122,8 +124,8 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 東森新聞台,https://epg.pw/stream/d6cad1cb0bdc2192885f5fb7689d8234c282c7f07401c1093a000ab83142bd95.m3u8
 中天新聞台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 非凡新聞台,video://http://everydaytv.top/play-3-62-0.html
+非凡新聞台,video://https://www.histar.tv/live/ustv-news
 非凡新聞台,http://125.227.210.55:28993/VideoInput/play.ts
-非凡新聞台,
 民視新聞台,video://https://today.line.me/tw/v2/article/PNNoG5
 民視新聞台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新聞台,http://tv.redrainl.site:9500/live.m3u8?c=01
@@ -135,7 +137,7 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 年代新聞台,http://211.72.65.236:8539/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞台,video://http://everydaytv.top/play-3-139-0.html
 年代新聞台,
-三立新聞台,https://yt-stream.livednow.com/stream/oZdzzvxTfUY/master.m3u8
+三立新聞台,https://www.youtube.com/watch?v=oZdzzvxTfUY
 三立新聞台,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞台,
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
@@ -189,8 +191,8 @@ Animax,video://http://everydaytv.top/play-3-2-0.html
 東森幼幼台,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
 
 電影台,#genre#
-緯來電影台,video://http://everydaytv.top/play-3-171-0.html
 緯來電影台,video://https://www.histar.tv/live/videoland-movie
+緯來電影台,video://http://everydaytv.top/play-3-171-0.html
 東森電影台,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 東森電影台,video://http://everydaytv.top/play-3-40-0.html
 龍祥時代,video://http://everydaytv.top/play-3-119-0.html
