@@ -119,7 +119,6 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 東森新聞台,https://yt-stream.livednow.com/stream/S5WOGu2HSes/master.m3u8
 東森新聞台,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 東森新聞台,tvbus://3axQp2q6k8BWbmfzH7q9FEpaZTennC7eKfouvat7wrFxfu5kES
-東森新聞台,http://www.terrykang.xyz:35455/youtube/S5WOGu2HSes
 東森新聞台,https://epg.pw/stream/d6cad1cb0bdc2192885f5fb7689d8234c282c7f07401c1093a000ab83142bd95.m3u8
 中天新聞台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 非凡新聞台,video://http://everydaytv.top/play-3-62-0.html
