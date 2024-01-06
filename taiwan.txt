@@ -118,10 +118,10 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 東森財經新聞台,
 東森新聞台,video://https://today.line.me/tw/v2/article/grrvVZ
 東森新聞台,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
-東森新聞台,https://yt-stream.livednow.com/stream/S5WOGu2HSes/master.m3u8
-東森新聞台,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
-東森新聞台,tvbus://3axQp2q6k8BWbmfzH7q9FEpaZTennC7eKfouvat7wrFxfu5kES
-東森新聞台,https://epg.pw/stream/d6cad1cb0bdc2192885f5fb7689d8234c282c7f07401c1093a000ab83142bd95.m3u8
+東森新聞台,https://www.youtube.com/watch?v=2dfAzcDf8Zg
+東森新聞台,
+東森新聞台,
+東森新聞台,
 中天新聞台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 非凡新聞台,video://http://everydaytv.top/play-3-62-0.html
 非凡新聞台,video://https://www.histar.tv/live/ustv-news
