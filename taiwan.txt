@@ -103,6 +103,7 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 台視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MD2D8203795682037956&ct=19249&tsum=2006edaa53ca80f074fb680d4b7372c3
 台視,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台視,rtmp://twcdn.top/sat/tv071
+中視,mitv://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
 中視,video://http://everydaytv.top/play-3-190-0.html
 中視,video://https://www.histar.tv/live/ctv
 中視,rtmp://twcdn.top/sat/tv091
