@@ -48,10 +48,10 @@ MOMO綜合台,rtmp://twcdn.top/sat/tv761
 三立都會台,mitv://generationnexxxt.com:19806/7a36f98eee8e48a48ea64a1359083c8a
 三立都會台,http://211.72.65.236:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 三立都會台,http://50.7.238.114:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
+三立台灣台,mitv://generationnexxxt.com:19806/ff12e8f29f9b4f61a9b766709aa498f6
+三立台灣台,http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 三立台灣台,http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
 三立台灣台,http://50.7.238.114:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-三立台灣台,http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-三立台灣台,
 三立台灣台,
 緯來日本台,rtmp://twcdn.top/sat/tv771
 緯來日本台,http://38.207.160.104:11012/live.php?date=231108&id=videoland-japan
@@ -97,17 +97,17 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 民視,http://211.72.65.236:8539/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
 民視,https://epg.pw/stream/874a06687ba0ef80e63712b5f2bbfaeade672def0cdee8950ad77b6067cf9a54.ctv
 民視,
+台視,video://https://www.histar.tv/live/ttv
 台視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
 台視,video://http://everydaytv.top/play-3-158-0.html
-台視,video://https://www.histar.tv/live/ttv
 台視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MD2D8203795682037956&ct=19249&tsum=2006edaa53ca80f074fb680d4b7372c3
 台視,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台視,rtmp://twcdn.top/sat/tv071
+中視,http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
+中視,rtmp://twcdn.top/sat/tv091
 中視,mitv://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
 中視,video://http://everydaytv.top/play-3-190-0.html
 中視,video://https://www.histar.tv/live/ctv
-中視,rtmp://twcdn.top/sat/tv091
-中視,http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
 中視,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
 
 新聞台,#genre#
