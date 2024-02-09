@@ -9,7 +9,7 @@
           "type":"0",
           "pass": false,
 	  "url": "https://raw.githubusercontent.com/aminlinbeila/main/main/taiwan.txt",
-          "playerType":1,
+          "playerType":2,
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"         
 	   },
@@ -18,7 +18,7 @@
           "type":"0",
           "pass": false,
 	  "url": "https://raw.githubusercontent.com/aminlinbeila/main/main/mitv",
-          "playerType":1,
+          "playerType":2,
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"         
 	   },
@@ -27,7 +27,7 @@
           "type":"0",
           "pass": false,
 	  "url": "https://raw.githubusercontent.com/aminlinbeila/main/main/test",
-          "playerType":1,
+          "playerType":2,
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"         
 	   }
