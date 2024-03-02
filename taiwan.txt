@@ -10,10 +10,10 @@
 愛爾達體育4台,mitv://generationnexxxt.com:19806/df4f198dbe6347e1a084c79d208f227d
 緯來體育,https://cloud.yumixiu768.com/tmp/123.m3u8
 緯來體育,https://fake-stream.livednow.com/redirect/videolandsports?token=fe44a6f50b373603e7ade66f751d2a37&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
+緯來體育,P2p://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
 緯來體育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
 緯來體育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
 緯來體育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
-緯來體育,
 緯來體育,
 緯來體育,
 ELEVEN體育1台,mitv://generationnexxxt.com:19806/fcfde35352d5464f9ed1c711ef2d05b1
@@ -171,6 +171,7 @@ TVBS新聞台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 CNN,http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+國會頻道1,video://https://www.4gtv.tv/channel/4gtv-4gtv084?set=1&ch=170
 
 戲劇台,#genre#
 東森戲劇台,http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
