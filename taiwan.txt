@@ -18,7 +18,7 @@
 緯來體育,https://cloud.yumixiu768.com/tmp/123.m3u8
 緯來體育,
 ELEVEN體育1台,mitv://generationnexxxt.com:19806/fcfde35352d5464f9ed1c711ef2d05b1
-ELEVEN體育1台,video://
+ELEVEN體育1台,P2p://generationnexxxt.com:19806/fcfde35352d5464f9ed1c711ef2d05b1
 ELEVEN體育1台,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 ELEVEN體育1台,
 ELEVEN體育2台,rtmp://twcdn.top/sat/tv741
