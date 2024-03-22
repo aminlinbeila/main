@@ -94,10 +94,10 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 華視,http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
 華視,http://50.7.238.114:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
 華視,
+民視,rtmp://twcdn.top/sat/tv051
 民視,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-129-0.html
 民視,http://220.134.196.147:9574/ch49.m3u8
 民視,http://211.72.65.236:8539/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
-民視,
 民視,
 台視,video://
 台視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
