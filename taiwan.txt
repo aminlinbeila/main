@@ -1,8 +1,8 @@
 體育台,#genre#
+愛爾達體育1台,rtmp://twcdn.top/sat/md051
 愛爾達體育1台,mitv://generationnexxxt.com:19806/1180278580d04cb490450ec59b4edc6b
 愛爾達體育1台,mitv://generationnexxxt.com:19806/68e521d35c0247ddbc5073dee98245a3
 愛爾達體育1台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-51-0.html
-愛爾達體育1台,
 愛爾達體育2台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-52-0.html
 愛爾達體育2台,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
 愛爾達體育2台,http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
@@ -29,6 +29,11 @@ ELEVEN體育2台,P2p://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe
 ELEVEN體育2台,video://
 MOMO綜合台,rtmp://twcdn.top/sat/tv761
 MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
+博斯運動1台,https://z88.ubtvfans.com/live/rx1/379/3a3694d44eeb8fb3a641b7a7e1d1d010/index.m3u8
+博斯運動1台,mitv://generationnexxxt.com:19806/6293839c167e4b6393c745db434b2465
+博斯運動2台,http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+博斯魅力台,rtmp://twcdn.top/sat/md031
+博斯魅力台,http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
 
 綜合台,#genre#
 八大第一台,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
