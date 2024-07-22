@@ -137,11 +137,11 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 東森財經新聞台,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
 東森財經新聞台,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
 東森財經新聞台,
-東森新聞台,
-東森新聞台,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
+東森新聞台,http://xg.52sw.top:5000/litv/4gtv-4gtv152
+東森新聞台,http://211.72.65.236:8550/http/60.251.39.91:8081/hls/63/805/ch10.m3u8 #有效
 東森新聞台,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
-東森新聞台,https://www.youtube.com/watch?v=OVs2gKMHaNw
-東森新聞台,
+東森新聞台,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
+東森新聞台,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森新聞台,
 中天新聞台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 非凡新聞台,rtmp://twcdn.top/sat/tv581
