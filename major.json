@@ -1,11 +1,11 @@
-//=============單倉更新日期 2024/01/08=============
+//=============單倉更新日期 2024/08/22=============
 //本單倉庫在線鏈接：
 //https://raw.githubusercontent.com/aminlinbeila/main/main/major.json
 
 {"urls":[
 {"name": "OK(有彈幕)","url":"https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.json"},
 {"name": "蜂蜜","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
-{"name": "飯太硬","url":"http://饭太硬.top/tv"},
+{"name": "飯太硬"，"url":"http://www.饭太硬.com/tv/"},
 {"name": "小暴脾氣","url":"http://xhww.fun:63/小米/DEMO.json"},
 {"name": "劉備","url":"https://raw.liucn.cc/box/m.json"},
 {"name": "南風","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
