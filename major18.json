@@ -1,4 +1,4 @@
-//=============單倉更新日期 2023/12/25=============
+//=============單倉更新日期 2024/08/22=============
 //本單倉庫在線鏈接：
 //https://raw.githubusercontent.com/aminlinbeila/main/main/major18.json
 
@@ -6,5 +6,6 @@
 {"name": "蜂蜜18","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json"},
 {"name": "高天18","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"},
 {"name": "二哈18","url":"https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"},
+{"name": "index18","url":"https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json"},
 {"name": "蜂蜜在線","url":"https://raw.githubusercontent.com/xcxc8/xc8/main/hot"}
 ]}
