@@ -31,7 +31,7 @@ ELEVEN體育2台,
 MOMO綜合台,rtmp://twcdn.top/sat/tv761
 MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 博斯運動1台,http://23.26.239.95:3599/xsj.php?id=sportcast1
-博斯運動1台,
+博斯運動1台,http://37.27.111.214:8080/live/14/hls.m3u8
 博斯運動2台,http://23.26.239.95:3599/xsj.php?id=sportcast2
 博斯魅力台,http://23.26.239.95:3599/xsj.php?id=sportcast-meili
 博斯魅力台,
