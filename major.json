@@ -1,4 +1,4 @@
-//=============單倉更新日期 2024/08/22=============
+//=============單倉更新日期 2024/08/26=============
 //本單倉庫在線鏈接：
 //https://raw.githubusercontent.com/aminlinbeila/main/main/major.json
 
@@ -31,5 +31,7 @@
 {"name": "D老魔改","url":"https://download.kstore.space/download/2883/nzk/nzk0722.json"},
 {"name": "劉備","url":"https://raw.liucn.cc/box/m.json"},
 {"name": "摸魚","url":"http://我不是.摸鱼儿.top"},
-{"name": "吾愛","url":"http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0"}
+{"name": "吾愛","url":"http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0"},
+{"name": "念心","url":"https://gitee.com/nianxinxz/miao/raw/master/tvbox.json"},
+{"name": "zhangqun1818","url":"https://zhangqun1818.serv00.net/zq/api.json"}
 ]}
