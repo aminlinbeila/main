@@ -1,5 +1,5 @@
 體育台,#genre#
-愛爾達體育1台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-51-0.html                     
+愛爾達體育1台,http://cookies.elementfx.com/ublive/ublive.php?id=2729                     
 愛爾達體育1台,rtmp://twcdn.top/sat/md051
 愛爾達體育1台,
 愛爾達體育1台,           
@@ -30,12 +30,13 @@ ELEVEN體育2台,
 ELEVEN體育2台,
 MOMO綜合台,rtmp://twcdn.top/sat/tv761
 MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
+博斯運動1台,https://kaytse4gtv.koyeb.app/litv/litv-longturn07
 博斯運動1台,http://23.26.239.95:3599/xsj.php?id=sportcast1
 博斯運動1台,http://37.27.111.214:8080/live/14/hls.m3u8
-博斯運動2台,http://23.26.239.95:3599/xsj.php?id=sportcast2
-博斯魅力台,http://23.26.239.95:3599/xsj.php?id=sportcast-meili
+博斯運動2台,https://kaytse4gtv.koyeb.app/litv/litv-longturn08
+博斯魅力台,https://kaytse4gtv.koyeb.app/litv/litv-longturn04
 博斯魅力台,
-智林體育台,http://23.26.239.95:3599/xsj.php?id=zl-sports
+智林體育台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv101
 
 綜合台,#genre#
 八大第一台,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
@@ -57,9 +58,9 @@ MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 東森綜合台,http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
 民視第一台,http://23.26.239.95:3599/xsj.php?id=ftv-one
 民視第一台,
+三立都會台,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 三立都會台,http://211.72.65.236:8550/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 三立都會台,https://stream1.freetv.fun/f485259322bfd1d29bc845e92882a4da6cc55a64ae877f757a4bf789af9e0da2.ctv
-三立都會台,
 三立都會台,
 三立台灣台,http://23.26.239.95:3599/xsj.php?id=settv-taiwan
 三立台灣台,http://211.72.65.236:8550/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
