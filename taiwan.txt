@@ -30,13 +30,13 @@ ELEVEN體育2台,
 ELEVEN體育2台,
 MOMO綜合台,rtmp://twcdn.top/sat/tv761
 MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
-博斯運動1台,https://kaytse4gtv.koyeb.app/litv/litv-longturn07
+博斯運動1台,https://stream1.freetv.fun/bo-si-yun-dong-yi-1.ctv
 博斯運動1台,http://23.26.239.95:3599/xsj.php?id=sportcast1
 博斯運動1台,http://37.27.111.214:8080/live/14/hls.m3u8
-博斯運動2台,https://kaytse4gtv.koyeb.app/litv/litv-longturn08
-博斯魅力台,https://kaytse4gtv.koyeb.app/litv/litv-longturn04
+博斯運動2台,https://stream1.freetv.fun/bo-si-yun-dong-er-1.ctv
+博斯魅力台,https://stream1.freetv.fun/bo-si-mei-li-5.ctv
 博斯魅力台,
-智林體育台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv101
+智林體育台,https://stream1.freetv.fun/zhi-lin-ti-yu-2.ctv
 
 綜合台,#genre#
 八大第一台,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
@@ -58,13 +58,13 @@ MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 東森綜合台,http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
 民視第一台,http://23.26.239.95:3599/xsj.php?id=ftv-one
 民視第一台,
+三立都會台,https://stream1.freetv.fun/san-li-du-hui-1.m3u8
 三立都會台,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 三立都會台,https://stream1.freetv.fun/f485259322bfd1d29bc845e92882a4da6cc55a64ae877f757a4bf789af9e0da2.ctv
 三立都會台,http://211.72.65.236:8550/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
-三立都會台,
+三立台灣台,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 三立台灣台,http://23.26.239.95:3599/xsj.php?id=settv-taiwan
 三立台灣台,http://211.72.65.236:8550/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
-三立台灣台,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 三立台灣台,
 三立台灣台,
 緯來日本台,rtmp://twcdn.top/sat/tv771
@@ -80,13 +80,13 @@ MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 中天娛樂台,http://23.26.239.95:3599/xsj.php?id=cti-yule
 NHK G,http://23.26.239.95:3599/xsj.php?id=nhk-g
 NHK WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-TVBS,http://23.26.239.95:3599/xsj.php?id=tvbs-hd
+TVBS,https://stream1.freetv.fun/tvbs-6.ctv
 TVBS,
-TVBS歡樂台,http://23.26.239.95:3599/xsj.php?id=tvbs-huanle
+TVBS歡樂台,https://stream1.freetv.fun/tvbshuan-le-3.ctv
 TVBS歡樂台,rtmp://twcdn.top/sat/tv421
 TVBS歡樂台,rtmp://f13h.mine.nu/sat/tv421
 TVBS歡樂台,
-TvN,http://23.26.239.95:3599/xsj.php?id=tvn
+TvN,https://stream1.freetv.fun/tvn-1.m3u8
 TvN,
 愛爾達綜合台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-57-0.html
 愛爾達娛樂台,
@@ -107,12 +107,12 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 公視,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
 公視,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
 公視,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
-公視3台,http://23.26.239.95:3599/xsj.php?id=pts-3
-公視台語台,http://23.26.239.95:3599/xsj.php?id=pts-ty
-華視,http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
-華視,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv041
+公視3台,
+公視台語台,
 華視,rtmp://twcdn.top/sat/tv111
 華視,rtmp://f13h.mine.nu/sat/tv111
+華視,http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+華視,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv041
 華視,http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
 華視,http://50.7.238.114:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
 民視,rtmp://twcdn.top/sat/tv051
@@ -135,8 +135,8 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 中視,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
 
 新聞台,#genre#
-東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經新聞台,https://www.youtube.com/watch?v=WHEPzbFA3hw
+東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經新聞台,
 東森財經新聞台,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
 東森財經新聞台,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
