@@ -82,7 +82,7 @@ NHK G,http://23.26.239.95:3599/xsj.php?id=nhk-g
 NHK WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 TVBS,https://stream1.freetv.fun/tvbs-6.ctv
 TVBS,
-TVBS歡樂台,https://stream1.freetv.fun/tvbshuan-le-3.ctv
+TVBS歡樂台,https://stream1.freetv.fun/tvbshuan-le-1.ctv
 TVBS歡樂台,rtmp://twcdn.top/sat/tv421
 TVBS歡樂台,rtmp://f13h.mine.nu/sat/tv421
 TVBS歡樂台,
@@ -196,7 +196,7 @@ CNN,https://i.mjh.nz/discovery-ptcn.m3u8
 國會頻道2,https://www.youtube.com/watch?v=Lj8OWF6nzcg
 
 戲劇台,#genre#
-東森戲劇台,http://23.26.239.95:3599/xsj.php?id=ebc-drama
+東森戲劇台,https://stream1.freetv.fun/dong-sen-xi-ju-2.m3u8
 東森戲劇台,http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
 東森戲劇台,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
 東森戲劇台,http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
@@ -216,17 +216,17 @@ CNN,https://i.mjh.nz/discovery-ptcn.m3u8
 靖天卡通台,http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
 靖天卡通台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv044
 Animax,http://23.26.239.95:3599/xsj.php?id=animax-cartoon
-東森幼幼台,http://23.26.239.95:3599/xsj.php?id=ebc-yoyo
+東森幼幼台,https://stream1.freetv.fun/dong-sen-you-you-2.m3u8
 靖洋卡通台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv057
-龍華卡通,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn01
+龍華卡通,https://stream1.freetv.fun/long-hua-qia-tong-1.ctv
 愛放動漫,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv15
 
 電影台,#genre#
 緯來電影台,http://211.72.65.236:8550/http/60.251.39.91:8081/hls/69/811/ch35.m3u8
 緯來電影台,video://
 東森電影台,http://23.26.239.95:3599/xsj.php?id=ebc-movie
-東森電影台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-40-0.html
-龍祥時代,http://23.26.239.95:3599/xsj.php?id=lstime
+東森電影台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-42-0.html
+龍祥時代,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-122-0.html
 東森洋片台,http://23.26.239.95:3599/xsj.php?id=ebc-emovie
 東森洋片台,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 龍華電影台,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn03
