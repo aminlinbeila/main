@@ -11,7 +11,8 @@
 愛爾達體育4台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-55-0.html
 緯來體育,rtmp://twcdn.top/sat/tv721
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
-緯來體育,http://211.72.65.236:8550/http/116.50.42.19:8081/hls/67/809/ch25.m3u8
+緯來體育,http://211.72.65.236:8550/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+緯來體育,http://211.23.114.106:8528/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
 緯來體育,http://23.26.239.95:3599/xsj.php?id=videoland-sport
 緯來體育,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-177-0.html
 緯來體育,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-177-0.html
