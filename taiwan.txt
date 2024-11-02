@@ -1,6 +1,6 @@
 體育台,#genre#
 愛爾達體育1台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-52-0.html
-愛爾達體育1台,http://cookies.elementfx.com/ublive/ublive.php?id=2729 //不能看                     
+//不能看 愛爾達體育1台,http://cookies.elementfx.com/ublive/ublive.php?id=2729                      
 愛爾達體育1台,rtmp://twcdn.top/sat/md051 //不能看
 愛爾達體育1台,           
 愛爾達體育2台,
@@ -9,7 +9,7 @@
 愛爾達體育3台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-54-0.html
 愛爾達體育4台,
 愛爾達體育4台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-55-0.html
-緯來體育,rtmp://twcdn.top/sat/tv721
+緯來體育,rtmp://twcdn.top/sat/tv721 //不能看
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
 緯來體育,http://211.23.114.106:8528/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
