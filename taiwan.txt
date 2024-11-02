@@ -77,6 +77,7 @@ NHK G,http://23.26.239.95:3599/xsj.php?id=nhk-g //不能看
 NHK WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 TVBS,https://stream1.freetv.fun/tvbs-6.ctv
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS,video://https://iptv345.com/?act=play&token=eda84161f53e3fee4f7ccb5dc6ffde23&tid=litv&id=1
 TVBS歡樂台,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/TVBShuanletai.html
 TVBS歡樂台,https://stream1.freetv.fun/tvbshuan-le-1.ctv //不能看
 TVBS歡樂台,rtmp://twcdn.top/sat/tv421 //不能看
