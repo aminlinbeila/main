@@ -75,13 +75,13 @@ MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 NHK G,http://23.26.239.95:3599/xsj.php?id=nhk-g //不能看
 NHK WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 TVBS,https://stream1.freetv.fun/tvbs-6.ctv
-TVBS,
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS歡樂台,https://stream1.freetv.fun/tvbshuan-le-1.ctv //不能看
 TVBS歡樂台,rtmp://twcdn.top/sat/tv421 //不能看
 TVBS歡樂台,rtmp://f13h.mine.nu/sat/tv421
 TVBS歡樂台,
 TvN,https://stream1.freetv.fun/tvn-1.m3u8
-TvN,
+TvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 愛爾達綜合台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-57-0.html
 愛爾達娛樂台,
 靖天育樂台,
@@ -138,7 +138,7 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞台,http://211.72.65.236:8539/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-142-0.html
-年代新聞台,
+年代新聞台,http://211.72.65.236:8539/http/61.67.128.137:8081/hls/67/809/ch27.m3u8
 三立新聞台,https://www.youtube.com/watch?v=oZdzzvxTfUY
 三立新聞台,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞台,
@@ -197,9 +197,9 @@ Animax,http://23.26.239.95:3599/xsj.php?id=animax-cartoon
 龍祥時代,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-122-0.html
 東森洋片台,http://23.26.239.95:3599/xsj.php?id=ebc-emovie
 東森洋片台,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
-龍華電影台,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn03
+龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 美亞電影台,video://
-靖天電影台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv061
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 靖天映畫,http://23.26.239.95:3599/xsj.php?id=jtyh
 HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 CATCHPLAY電影台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv076
