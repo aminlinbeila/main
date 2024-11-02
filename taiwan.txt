@@ -19,7 +19,7 @@
 緯來體育,http://23.26.239.95:3599/xsj.php?id=videoland-sport //不能看
 緯來體育,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-177-0.html
 緯來體育,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-177-0.html
-緯來體育,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-177-1.html //不能看
+緯來體育,video://https://www.chaojidianshi.net/zhibo/726.html
 ELEVEN體育1台,rtmp://twcdn.top/sat/tv731 //不能看
 ELEVEN體育1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN體育1台,
@@ -31,7 +31,7 @@ ELEVEN體育2台,
 ELEVEN體育2台,
 MOMO綜合台,rtmp://twcdn.top/sat/tv761 //不能看
 MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
-博斯運動1台,https://stream1.freetv.fun/bo-si-yun-dong-yi-1.ctv //不能看
+博斯運動1台,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/bosiyundong1.html
 博斯運動1台,http://23.26.239.95:3599/xsj.php?id=sportcast1
 博斯運動1台,http://37.27.111.214:8080/live/14/hls.m3u8 //不能看
 博斯運動2台,https://stream1.freetv.fun/bo-si-yun-dong-er-1.ctv //不能看
@@ -50,9 +50,9 @@ MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 東風衛視,
 東森超視台,rtmp://f13h.mine.nu/sat/tv331
 東森綜合台,http://220.134.196.147:9553/index.m3u8
-民視第一台,http://23.26.239.95:3599/xsj.php?id=ftv-one rtmp://f13h.mine.nu/sat/tv331
+民視第一台,http://23.26.239.95:3599/xsj.php?id=ftv-one
 民視第一台,
-三立都會台,https://stream1.freetv.fun/san-li-du-hui-1.m3u8 rtmp://f13h.mine.nu/sat/tv331
+三立都會台,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/sanlidouhuitai.html
 三立都會台,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 三立都會台,https://stream1.freetv.fun/f485259322bfd1d29bc845e92882a4da6cc55a64ae877f757a4bf789af9e0da2.ctv
 三立都會台,http://211.72.65.236:8550/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
@@ -94,7 +94,8 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 大愛1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大愛2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-公視,http://23.26.239.95:3599/xsj.php?id=pts
+公視,video://https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165088&pathid=0
+公視,
 公視3台,
 公視台語台,
 華視,rtmp://twcdn.top/sat/tv111 //不能看
@@ -119,8 +120,8 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 東森財經新聞台,https://www.youtube.com/watch?v=WHEPzbFA3hw
 東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經新聞台,
-東森新聞台,
 東森新聞台,https://www.youtube.com/watch?v=V1p33hqPrUk
+東森新聞台,video://https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165103&pathid=0
 東森新聞台,https://stream1.freetv.fun/dong-sen-xin-wen-8.ctv //不能看
 東森新聞台,http://211.72.65.236:8550/http/60.251.39.91:8081/hls/63/805/ch10.m3u8 //不能看
 東森新聞台,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8 //不能看
