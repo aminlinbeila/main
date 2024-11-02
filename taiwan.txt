@@ -38,7 +38,7 @@ MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 博斯運動2台,https://stream1.freetv.fun/bo-si-yun-dong-er-1.ctv //不能看
 博斯魅力台,https://stream1.freetv.fun/bo-si-mei-li-5.ctv //不能看
 博斯魅力台,
-智林體育台,https://stream1.freetv.fun/zhi-lin-ti-yu-2.ctv //不能看
+智林體育台,video://https://www.4gtv.tv/channel/4gtv-4gtv101?set=4&ch=58
 
 綜合台,#genre#
 八大第一台,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
@@ -52,7 +52,7 @@ MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 東森超視台,rtmp://f13h.mine.nu/sat/tv331
 東森綜合台,http://220.134.196.147:9553/index.m3u8
 民視第一台,http://23.26.239.95:3599/xsj.php?id=ftv-one
-民視第一台,
+民視第一台,video://https://www.4gtv.tv/channel/4gtv-4gtv003?set=4&ch=1
 三立都會台,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/sanlidouhuitai.html
 三立都會台,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 三立都會台,https://stream1.freetv.fun/f485259322bfd1d29bc845e92882a4da6cc55a64ae877f757a4bf789af9e0da2.ctv
@@ -123,6 +123,7 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經新聞台,
 東森新聞台,https://www.youtube.com/watch?v=V1p33hqPrUk
+東森新聞台,video://https://www.4gtv.tv/channel/4gtv-4gtv152?set=4&ch=292
 東森新聞台,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenxinwenETTVNews.html
 東森新聞台,https://stream1.freetv.fun/dong-sen-xin-wen-8.ctv //不能看
 東森新聞台,http://211.72.65.236:8550/http/60.251.39.91:8081/hls/63/805/ch10.m3u8 //不能看
@@ -161,7 +162,7 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS新聞台,rtmp://f13h.mine.nu/sat/tv551
 TVBS新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-寰宇新聞台,
+寰宇新聞台,video://https://www.4gtv.tv/channel/litv-longturn14?set=4&ch=36
 CNN,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-37-21-0.html
 國會頻道1,
 國會頻道2,https://www.youtube.com/watch?v=Lj8OWF6nzcg
@@ -179,9 +180,10 @@ CNN,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-37-21-0.
 緯來戲劇台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-178-0.html
 愛爾達影劇台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-56-0.html
 龍華戲劇台,http://23.26.239.95:3599/xsj.php?id=ltv-xiju
+龍華日韓台,video://https://www.4gtv.tv/channel/litv-longturn11?set=4&ch=28
 龍華日韓台,http://23.26.239.95:3599/xsj.php?id=ltv-rihan
 龍華偶像台,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn12
-龍華偶像台,video://
+龍華偶像台,video://https://www.4gtv.tv/channel/litv-longturn12?set=4&ch=296
 
 幼兒,動畫台,#genre#
 靖天卡通台,http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
@@ -201,6 +203,7 @@ Animax,http://23.26.239.95:3599/xsj.php?id=animax-cartoon
 東森洋片台,http://23.26.239.95:3599/xsj.php?id=ebc-emovie
 東森洋片台,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+龍華電影台,video://https://www.4gtv.tv/channel/litv-longturn03?set=4&ch=121
 美亞電影台,video://
 靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 靖天映畫,http://23.26.239.95:3599/xsj.php?id=jtyh
@@ -214,5 +217,6 @@ MOMO1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 
 英語台,#genre#
-生活英語台,http://23.26.239.95:3599/xsj.php?id=eltv
+LiveABC,video://https://www.4gtv.tv/channel/4gtv-live030?set=4&ch=188
+生活英語台,video://https://www.4gtv.tv/channel/litv-longturn20?set=4&ch=106
 美國之音,http://23.26.239.95:3599/xsj.php?id=voa
