@@ -1,7 +1,7 @@
 體育台,#genre#
 愛爾達體育1台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-52-0.html
 愛爾達體育1台,http://cookies.elementfx.com/ublive/ublive.php?id=2729 //不能看 
-愛爾達體育1台,rtmp://twcdn.top/sat/md051 //不能看
+愛爾達體育1台,rtmp://f13h.mine.nu/sat/md051 //不能看
 愛爾達體育1台,           
 愛爾達體育2台,
 愛爾達體育2台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-53-0.html
@@ -20,6 +20,7 @@
 緯來體育,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-177-0.html
 緯來體育,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-177-0.html
 緯來體育,video://https://www.chaojidianshi.net/zhibo/726.html
+緯來體育,video://https://m.345iptv.com/?act=play&token=421ae0335d2dca48fe9f2af4e5aa1f86&tid=ty&id=23
 ELEVEN體育1台,rtmp://twcdn.top/sat/tv731 //不能看
 ELEVEN體育1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN體育1台,
@@ -79,7 +80,7 @@ TVBS,https://stream1.freetv.fun/tvbs-6.ctv
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS,video://https://iptv345.com/?act=play&token=eda84161f53e3fee4f7ccb5dc6ffde23&tid=litv&id=1
 TVBS歡樂台,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/TVBShuanletai.html
-TVBS歡樂台,https://stream1.freetv.fun/tvbshuan-le-1.ctv //不能看
+TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
 TVBS歡樂台,rtmp://twcdn.top/sat/tv421 //不能看
 TVBS歡樂台,rtmp://f13h.mine.nu/sat/tv421
 TvN,https://stream1.freetv.fun/tvn-1.m3u8
