@@ -8,7 +8,7 @@
 愛爾達體育2台,
 愛爾達體育3台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-54-0.html
 愛爾達體育4台,
-愛爾達體育4台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-55-0.html //不能看 
+愛爾達體育4台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-55-0.html
 緯來體育,rtmp://twcdn.top/sat/tv721 //不能看
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
@@ -23,12 +23,12 @@
 緯來體育,video://https://m.345iptv.com/?act=play&token=421ae0335d2dca48fe9f2af4e5aa1f86&tid=ty&id=23
 ELEVEN體育1台,rtmp://twcdn.top/sat/tv731 //不能看
 ELEVEN體育1台,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN體育1台,
+ELEVEN體育1台,video://https://m.345iptv.com/?act=play&token=addd3d8ff78d7b20898cdaaba6594af9&tid=ty&id=24
 ELEVEN體育1台,
 ELEVEN體育1台,
 ELEVEN體育2台,rtmp://f13h.mine.nu/sat/tv741
 ELEVEN體育2台,rtmp://twcdn.top/sat/tv741 //不能看
-ELEVEN體育2台,
+ELEVEN體育2台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-51-0.html
 ELEVEN體育2台,
 MOMO綜合台,rtmp://twcdn.top/sat/tv761 //不能看
 MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
