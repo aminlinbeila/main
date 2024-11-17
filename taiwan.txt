@@ -60,6 +60,7 @@ MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 東森綜合台,http://220.134.196.147:9553/index.m3u8
 民視第一台,http://23.26.239.95:3599/xsj.php?id=ftv-one
 民視第一台,video://https://www.4gtv.tv/channel/4gtv-4gtv003?set=4&ch=1
+三立都會台,https://stream1.freetv.fun/4cf0405feb7da9c71ac8d099a8652a1d7eea3b3bc176256de75a3e4c13899e15.m3u8
 三立都會台,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/sanlidouhuitai.html
 三立都會台,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 三立都會台,https://stream1.freetv.fun/f485259322bfd1d29bc845e92882a4da6cc55a64ae877f757a4bf789af9e0da2.ctv
