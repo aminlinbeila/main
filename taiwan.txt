@@ -225,6 +225,10 @@ Animax,http://23.26.239.95:3599/xsj.php?id=animax-cartoon
 東森電影台,http://23.26.239.95:3599/xsj.php?id=ebc-movie
 東森電影台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-42-0.html
 龍祥時代,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-122-0.html
+東森洋片台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-47-0.html
+東森洋片台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-47-0.html
+東森洋片台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-47-0.html
+東森洋片台,video://https://www.chaojidianshi.net/zhibo/28.html
 東森洋片台,http://23.26.239.95:3599/xsj.php?id=ebc-emovie
 東森洋片台,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
