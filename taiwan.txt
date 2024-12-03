@@ -15,20 +15,13 @@
 愛爾達體育4台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-55-0.html
 愛爾達體育4台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-55-0.html
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
-緯來體育,
-緯來體育,
 緯來體育,http://211.23.114.106:8528/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
 緯來體育,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-177-0.html
 緯來體育,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-177-0.html
 緯來體育,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-177-0.html
 緯來體育,video://https://www.chaojidianshi.net/zhibo/726.html
-緯來體育,video://https://x.iptv345.com/?act=play&token=199bfe5b4d2ee7e9e97021718b742e0f&tid=ty&id=23
+緯來體育,video://https://m.345iptv.com/?act=play&token=c22c515c670c3f9cb35087832a62e8fd&tid=ty&id=23
 緯來體育,video://http://play.sportsteam363.com/play/wen.php?id=vl1#s=1733232909
-緯來體育,
-緯來體育,
-緯來體育,
-緯來體育,
-ELEVEN體育1台,
 ELEVEN體育1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN體育1台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-34-0.html
 ELEVEN體育1台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-34-0.html
@@ -38,7 +31,6 @@ ELEVEN體育2台,rtmp://f13h.mine.nu/sat/tv741
 ELEVEN體育2台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-51-0.html
 ELEVEN體育2台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-51-0.html
 ELEVEN體育2台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-51-0.html
-ELEVEN體育2台,
 MOMO綜合台,rtmp://f13h.mine.nu:1935/sat/tv761
 MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 博斯運動1台,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/bosiyundong1.html
@@ -61,7 +53,8 @@ MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 八大第一台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-10-0.html
 八大第一台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-10-0.html
 八大第一台,video://https://www.chaojidianshi.net/zhibo/21.html
-八大綜合台,
+八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
+八大綜合台,http://litv.zapi.us.kg/?id=4gtv-4gtv039
 八大綜合台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-14-0.html
 八大綜合台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-14-0.html
 八大綜合台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-14-0.html
@@ -79,10 +72,11 @@ MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 民視第一台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-130-0.html
 民視第一台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-130-0.html
 民視第一台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-130-0.html
+民視第一台,http://litv.zapi.us.kg/?id=4gtv-4gtv003
+民視台灣台,http://litv.zapi.us.kg/?id=4gtv-4gtv001
 三立都會台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-145-0.html
 三立都會台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-145-0.html
 三立都會台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-145-0.html
-三立都會台,
 三立都會台,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/sanlidouhuitai.html
 三立都會台,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 三立綜合台,video://https://www.4gtv.tv/channel/4gtv-live207?set=4&ch=169
@@ -91,34 +85,31 @@ MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 三立台灣台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-149-0.html
 三立台灣台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-149-0.html
 三立台灣台,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/sanlitaiwanSanliTaiwan.html
-緯來日本台,
 緯來日本台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-176-0.html
 緯來日本台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-176-0.html
 緯來日本台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-176-0.html
 緯來日本台,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilairibentai.html
 緯來日本台,rtmp://f13h.mine.nu/sat/tv771
-緯來日本台,
-緯來育樂台,
 緯來育樂台,rtmp://f13h.mine.nu/sat/tv701
 緯來育樂台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-179-0.html
 緯來育樂台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-179-0.html
 緯來育樂台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-179-0.html
 緯來育樂台,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilaiyule.html
-緯來育樂台,
-緯來綜合台,
 緯來綜合台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-180-0.html
 緯來綜合台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-180-0.html
 緯來綜合台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-180-0.html
 緯來綜合台,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilaizonghetai.html
+緯來精采台,http://61.221.215.25:8800/hls/48/index.m3u8
 客家電視台,video://https://www.4gtv.tv/channel/4gtv-4gtv043?set=4&ch=107
 中天娛樂台,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/zhongtianyuleCTIEntertaiment.html
 中天娛樂台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-195-0.html
 中天娛樂台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-195-0.html
 中天娛樂台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-195-0.html
+中天娛樂台,http://61.221.215.25:8800/hls/47/index.m3u8
 NHK BS,https://stream1.freetv.fun/e221fefd09f178d12c123ea63d07505f9dadf92accec584159c4bc1297601e62.m3u8
 NHK WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 NHK WORLD,https://stream1.freetv.fun/1e6afa65d6c1f5a79b83814ea78b5d9f3f8aba0a211d91a92b07cfa40c972d83.m3u8
-TVBS,
+TVBS,http://litv.zapi.us.kg/?id=4gtv-4gtv073
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-165-0.html
 TVBS,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-165-0.html
@@ -130,7 +121,7 @@ TVBS歡樂台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/pla
 TVBS歡樂台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-167-0.html
 TVBS歡樂台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-167-0.html
 TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
-TVBS歡樂台,
+TVBS歡樂台,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 TVBS歡樂台,rtmp://f13h.mine.nu/sat/tv421
 TvN,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-37-50-0.html
 TvN,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-37-50-0.html
@@ -168,6 +159,7 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 華視,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-87-0.html
 華視,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-87-0.html
 民視,video://https://www.4gtv.tv/channel/4gtv-4gtv002?set=4&ch=3
+民視,http://litv.zapi.us.kg/?id=4gtv-4gtv002
 民視,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-129-0.html
 民視,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-129-0.html
 民視,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-129-0.html
@@ -175,6 +167,7 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 民視,rtmp://f13h.mine.nu/sat/tv051
 民視,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/minshi.html
 台視,rtmp://f13h.mine.nu/sat/tv071
+台視,http://litv.zapi.us.kg/?id=4gtv-4gtv066
 台視,video://https://www.ofiii.com/channel/watch/4gtv-4gtv066
 台視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
 台視,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/taishiTTV.html
@@ -202,9 +195,11 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 東森新聞台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-45-0.html
 中天新聞台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
+非凡新聞台,http://litv.zapi.us.kg/?id=4gtv-4gtv010
 非凡新聞台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-64-0.html
 非凡新聞台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-64-0.html
 非凡新聞台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-64-0.html
+非凡商業台,http://litv.zapi.us.kg/?id=4gtv-4gtv048
 民視新聞台,video://https://today.line.me/tw/v2/article/PNNoG5
 民視新聞台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
@@ -276,8 +271,12 @@ CNN,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-37-21-0.
 龍華偶像台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-115-0.html
 龍華偶像台,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/longhuaouxiang.html
 公視戲劇台,video://https://www.4gtv.tv/channel/4gtv-4gtv042?set=4&ch=7
+靖洋戲劇台,http://litv.zapi.us.kg/?id=4gtv-4gtv045
+靖天日本台,http://litv.zapi.us.kg/?id=4gtv-4gtv047
+采昌影劇台,http://litv.zapi.us.kg/?id=4gtv-4gtv049
 
 幼兒,動畫台,#genre#
+靖天卡通台,http://litv.zapi.us.kg/?id=4gtv-4gtv044
 靖天卡通台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-98-0.html
 靖天卡通台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-98-0.html
 靖天卡通台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-98-0.html
@@ -295,6 +294,8 @@ MOMO親子台,video://https://www.4gtv.tv/channel/4gtv-live107?set=4&ch=231靖�
 經典卡通台,video://https://www.4gtv.tv/channel/4gtv-live022?set=4&ch=202
 兒童卡通台,video://https://www.4gtv.tv/channel/4gtv-live009?set=4&ch=269
 精選卡通台,video://https://www.4gtv.tv/channel/4gtv-live024?set=4&ch=204
+愛放動漫,http://litv.zapi.us.kg/?id=litv-ftv15
+靖天卡通台,http://litv.zapi.us.kg/?id=4gtv-4gtv044
 
 電影台,#genre#
 緯來電影台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-174-0.html
@@ -317,11 +318,12 @@ MOMO親子台,video://https://www.4gtv.tv/channel/4gtv-live107?set=4&ch=231靖�
 東森洋片台,
 龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 龍華電影台,video://https://www.4gtv.tv/channel/litv-longturn03?set=4&ch=121
+龍華電影台,http://litv.zapi.us.kg/?id=litv-longturn03
 美亞電影台,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/meiyadianying.html
 靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 靖天映畫,http://23.26.239.95:3599/xsj.php?id=jtyh
 HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-CATCHPLAY電影台,
+CATCHPLAY電影台,http://litv.zapi.us.kg/?id=4gtv-4gtv076
 
 購物台,#genre#
 東森購物,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
@@ -332,4 +334,4 @@ MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 英語台,#genre#
 LiveABC,video://https://www.4gtv.tv/channel/4gtv-live030?set=4&ch=188
 生活英語台,video://https://www.4gtv.tv/channel/litv-longturn20?set=4&ch=106
-美國之音,http://23.26.239.95:3599/xsj.php?id=voa
+美國之音,video://https://www.4gtv.tv/channel/litv-ftv03?set=4&ch=86
