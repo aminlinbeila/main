@@ -16,6 +16,7 @@
 愛爾達體育4台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-55-0.html
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 緯來體育,http://211.23.114.106:8528/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
+緯來體育,https://ali.hlspull.yximgs.com/live/8217badb4a62801ff8af5ff0bc4369c1.flv
 緯來體育,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-177-0.html
 緯來體育,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-177-0.html
 緯來體育,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-177-0.html
@@ -154,6 +155,7 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 華視,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/huashiCTS.html
 華視,rtmp://f13h.mine.nu/sat/tv111
 華視,video://https://www.ofiii.com/channel/watch/4gtv-4gtv041
+華視,https://ali.hlspull.yximgs.com/live/03b2b4dbb23f1ce2f180825940d14801.flv
 華視,video://https://x.iptv345.com/?act=play&token=e68218cce7c62526035ba2414a15ec79&tid=gt&id=63
 華視,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-87-0.html
 華視,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-87-0.html
