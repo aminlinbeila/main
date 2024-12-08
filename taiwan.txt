@@ -16,7 +16,6 @@
 愛爾達體育4台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-55-0.html
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 緯來體育,http://211.23.114.106:8528/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
-緯來體育,https://ali.hlspull.yximgs.com/live/8217badb4a62801ff8af5ff0bc4369c1.flv
 緯來體育,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-177-0.html
 緯來體育,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-177-0.html
 緯來體育,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-177-0.html
