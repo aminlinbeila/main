@@ -187,9 +187,9 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 中視,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-124-0.html
 中視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
 新聞台,#genre#
+東森財經新聞台,video://https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293
 東森財經新聞台,https://www.youtube.com/watch?v=1I2iq41Akmo
 東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-東森財經新聞台,
 東森新聞台,video://https://www.4gtv.tv/channel/4gtv-4gtv152?set=4&ch=292
 東森新聞台,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森新聞台,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenxinwenETTVNews.html
@@ -199,6 +199,7 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 東森新聞台,https://stream1.freetv.fun/dong-sen-xin-wen-8.ctv //不能看
 東森新聞台,http://211.72.65.236:8550/http/60.251.39.91:8081/hls/63/805/ch10.m3u8 //不能看
 東森新聞台,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8 //不能看
+中天新聞台,video://https://www.4gtv.tv/channel/4gtv-4gtv009?set=1&ch=30
 中天新聞台,https://www.youtube.com/live/vr3XyVCR4T0
 非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞台,http://litv.zapi.us.kg/?id=4gtv-4gtv010
@@ -235,7 +236,8 @@ TAIWAN+,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 中視新聞台,
 中視新聞台,
 中視新聞台,
-TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
+華視新聞台,video://https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
+TVBS新聞台,video://https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
 TVBS新聞台,rtmp://f13h.mine.nu/sat/tv551
 TVBS新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 寰宇新聞台,video://https://www.4gtv.tv/channel/litv-longturn14?set=4&ch=36
