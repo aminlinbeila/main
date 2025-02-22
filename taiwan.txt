@@ -110,6 +110,7 @@ MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 NHK BS,https://stream1.freetv.fun/e221fefd09f178d12c123ea63d07505f9dadf92accec584159c4bc1297601e62.m3u8
 NHK WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 NHK WORLD,https://stream1.freetv.fun/1e6afa65d6c1f5a79b83814ea78b5d9f3f8aba0a211d91a92b07cfa40c972d83.m3u8
+NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
 TVBS,http://litv.zapi.us.kg/?id=4gtv-4gtv073
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-108-0.html
