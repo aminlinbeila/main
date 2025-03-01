@@ -15,7 +15,7 @@
 愛爾達體育4台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-45-0.html
 愛爾達體育4台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-45-0.html
 緯來體育,video://https://play.sportsteam356.com/play/wen.php?id=vl1#s=1740741266
-https://ushls.ballbar.net/videolandsport/playlist-25.m3u8a?t=1740798431&token=0a5059ef648bd3ae67fffe6e5f376d13
+緯來體育,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilaitiyutai.html
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 緯來體育,http://211.23.114.106:8528/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
 緯來體育,video://https://www.chaojidianshi.net/zhibo/11.html
