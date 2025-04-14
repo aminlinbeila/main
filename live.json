@@ -41,6 +41,7 @@
       "auth" : "local://tvbus",
       "name" : "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "pass" : "https://epg.112114.xyz/logo/{name}.png",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "resp" : "{\"result_code\":\"0\",\"result\":\"ok\",\"keys\":{\"user_id\":\"0027000005f5c398\",\"peer_id\":\"0ec044591d9e1418\",\"session_key\":\"0a49662f37674af5\"}}",
       "so" : "https://github.com/aminlinbeila/main/blob/main/tvbus.so",
       "pkg" : "com.svc.vlive.home.ytv9x",
