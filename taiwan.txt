@@ -51,7 +51,7 @@ MOMO綜合台,video://http://f1efcd94ea205558e63e45cfffefba8d.everydaytv.top/pla
 MOMO綜合台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-119-1.html
 MOMO綜合台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-119-1.html
 MOMO綜合台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-119-1.html
-博斯運動1台,video://https://m.345iptv.com/?act=play&token=c2ea9d2acab74453f7df07fc309c9695&tid=ty&id=47
+博斯運動1台,video://https://m.345iptv.com/?act=play&token=033cfa8602f4f8f70a3bc697870a6ed6&tid=ty&id=47
 博斯運動1台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-19-1.html
 博斯運動1台,video://http://f1efcd94ea205558e63e45cfffefba8d.everydaytv.top/play-3-19-1.html
 博斯運動1台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-19-1.html
