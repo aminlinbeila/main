@@ -19,6 +19,7 @@
 愛爾達體育4台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-53-1.html
 愛爾達體育4台,video://http://f1efcd94ea205558e63e45cfffefba8d.everydaytv.top/play-3-53-1.html
 緯來體育,http://211.23.114.106:8528/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
+緯來體育,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-125-0.html
 緯來體育,http://211.23.114.106:8528/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
 緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
@@ -27,7 +28,6 @@
 緯來體育,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-153-1.html
 緯來體育,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-153-1.html
 緯來體育,video://http://f1efcd94ea205558e63e45cfffefba8d.everydaytv.top/play-3-153-1.html
-緯來體育,
 緯來體育,video://https://m.345iptv.com/?act=play&token=1d520defd43d6db606171de99fdc98b6&tid=ty&id=23
 緯來體育,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilaitiyutai.html
 緯來體育,video://https://www.chaojidianshi.net/zhibo/11.html
