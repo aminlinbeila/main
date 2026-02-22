@@ -10,10 +10,8 @@
           "pass": false,
 	  "timeout": 30,
 	  "url": "https://raw.githubusercontent.com/aminlinbeila/main/refs/heads/main/major18",
-          "playerType":2,
-               
+          "playerType":2,               
 	   }
-
   ],
 	"ads":["mozai.4gtv.tv"]
 }
