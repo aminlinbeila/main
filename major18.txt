@@ -1,8 +1,9 @@
 18,#genre#
 精艷臺,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
-精艷臺,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+精艷臺,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts      
+精艷臺,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 潘多拉完美臺,http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
-潘多拉完美臺,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+潘多拉完美臺,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts            
 香蕉臺,http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
 香蕉臺,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 松視1臺,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
@@ -10,4 +11,5 @@
 松視2臺,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
 松視2臺,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 松視3臺,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
+松視3臺,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 
