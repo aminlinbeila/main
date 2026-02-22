@@ -1,14 +1,14 @@
-//=============單倉更新日期 2024/08/25=============
+//=============單倉更新日期 2026/02/22=============
 //本單倉庫在線鏈接：
 //https://raw.githubusercontent.com/aminlinbeila/main/main/major18.json
 
 {"urls":[
-{"name": "蜂蜜18","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json"},
-{"name": "高天18","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"},
 {"name": "二哈18","url":"https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"},
-{"name": "index18","url":"https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json"},
-{"name": "蜂蜜在線","url":"https://raw.githubusercontent.com/xcxc8/xc8/main/hot"},
 {"name": "qist18+","url":"https://raw.githubusercontent.com/qist/tvbox/master/9918.json"},
 {"name": "c120487_18+","url":"https://raw.githubusercontent.com/c120487/00/main/05155.txt"},
-{"name": "avnetwork18x","url":"https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt"}
+{"name": "avnetwork18x+","url":"https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt"},
+{"name": "leexuben 18+","url":"https://raw.githubusercontent.com/leexuben/TVBOX-merge/refs/heads/main/FuLi%F0%9F%94%9E.json"},
+{"name": "Nancy0308 18+","url":"https://raw.githubusercontent.com/Nancy0308/TVbox-interface/refs/heads/main/18.json"},
+{"name": "cluntop 18+","url":"https://clun.top/fun.json"}
 ]}
+
