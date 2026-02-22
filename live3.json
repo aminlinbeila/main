@@ -9,7 +9,7 @@
           "type":"0",
           "pass": false,
 	  "timeout": 30,
-	  "url": "https://raw.githubusercontent.com/aminlinbeila/main/refs/heads/main/major18",
+	  "url": "https://raw.githubusercontent.com/aminlinbeila/main/refs/heads/main/major18.txt",
           "playerType":2,               
 	   }
   ],
