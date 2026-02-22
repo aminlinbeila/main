@@ -1,1 +1,20 @@
+//=============直播更新日期 2025/04/14=============
+//本單倉庫在線鏈接：
+//https://raw.githubusercontent.com/aminlinbeila/main/main/live.json
+
+{
+  "lives": [
+        {
+          "name": "18",
+          "type":"0",
+          "pass": false,
+	  "timeout": 30,
+	  "url": "https://raw.githubusercontent.com/aminlinbeila/main/main/taiwan.txt",
+          "playerType":2,
+               
+	   }
+
+  ],
+	"ads":["mozai.4gtv.tv"]
+}
 
