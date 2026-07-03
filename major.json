@@ -1,10 +1,12 @@
-//=============單倉更新日期 2026/06/29=============
+//=============單倉更新日期 2026/07/04=============
 //本單倉庫在線鏈接：
 //https://raw.githubusercontent.com/aminlinbeila/main/main/major.json
 
 {"urls":[
 {"name": "蜂蜜","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 {"name": "南風","url":"https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"},
+{"name": "qist","url":"https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json"},
+{"name": "瀟灑","url":"https://cnb.cool/fish2018/xs/-/git/raw/main/api.json"},
 {"name": "飯太硬","url":"http://www.饭太硬.cc/tv"},
 {"name": "肥貓","url":"http://肥猫.net/"},
 {"name": "高天JS(有彈幕)","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
