@@ -33,7 +33,6 @@
 緯來體育,video://https://www.chaojidianshi.net/zhibo/11.html
 DAZN1台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-153-0.html
 DAZN1台,video://https://m.345iptv.com/?act=play&token=addd3d8ff78d7b20898cdaaba6594af9&tid=ty&id=24
-DAZN1台,video://https://m.345iptv.com/?act=play&token=7a55cc07f942033fa86d11d264aa7498&tid=ty&id=24
 DAZN1台,rtmp://f13h.mine.nu/sat/tv731
 DAZN1台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-28-1.html
 DAZN1台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-28-1.html
